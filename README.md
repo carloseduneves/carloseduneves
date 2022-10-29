@@ -23,7 +23,9 @@
   
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
           
-          
+    
 </div>
 
 ##
+  ![Snake animation](https://github.com/carloseduneves/carloseduneves/blob/output/github-contribution-grid-snake.svg)     
+ 
